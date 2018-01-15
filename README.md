@@ -1,4 +1,4 @@
-# In this project, I was expected to develop a Shazam-like app to recognize and classify different kinds of music. The training data is mostly from time and spectral signal analysis. After that, the backpropagation (BP) network was implemented to classify these data. An accuracy of 85% in classification by music timbre was achieved upon tuning the network parameters.
+In this project, I was expected to develop a Shazam-like app to recognize and classify different kinds of music. The training data is mostly from time and spectral signal analysis. After that, the backpropagation (BP) network was implemented to classify these data. An accuracy of 85% in classification by music timbre was achieved upon tuning the network parameters.
 
 How to implement?
 
