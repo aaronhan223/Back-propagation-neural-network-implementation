@@ -1,7 +1,5 @@
 In this project, I was expected to develop a Shazam-like app to recognize and classify different kinds of music. The training data is mostly from time and spectral signal analysis. After that, the backpropagation (BP) network was implemented to classify these data. An accuracy of 85% in classification by music timbre was achieved upon tuning the network parameters.
 
-How to implement?
-
 The main.m is used for music feature extraction, it generates dataforBP.mat. main.m need to be run when implement the function the first time.
 
 mainBPclass.m is the main function
